@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Jm9WPK9TaIW0cqprMTVpSDcWmpp1Mmg+Beh2jDb7OGQ=",
+  "Source": "TestApiCreate",
+  "BasePath": "_content/TestApiCreate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\TestApiCreate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA1D9CA-45AA-4A16-99F5-62E920F62440}|LINQOperator\\LINQOperator.csproj|d:\\.netcorelearning\\testapicreate\\linqoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA1D9CA-45AA-4A16-99F5-62E920F62440}|LINQOperator\\LINQOperator.csproj|solutionrelative:linqoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA1D9CA-45AA-4A16-99F5-62E920F62440}|LINQOperator\\LINQOperator.csproj|d:\\.netcorelearning\\testapicreate\\linqoperator\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA1D9CA-45AA-4A16-99F5-62E920F62440}|LINQOperator\\LINQOperator.csproj|solutionrelative:linqoperator\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4193B62B-6E41-47C8-B702-B871784911A9}|LINQ_Practice\\LINQ_Practice.csproj|d:\\.netcorelearning\\testapicreate\\linq_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4193B62B-6E41-47C8-B702-B871784911A9}|LINQ_Practice\\LINQ_Practice.csproj|solutionrelative:linq_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\testapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\testapi1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|d:\\.netcorelearning\\testapicreate\\testapi1\\migrations\\20250420123748_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD6F6CA-FED0-47E5-A71D-587A11877A3B}|Testapi1\\Testapi1.csproj|solutionrelative:testapi1\\migrations\\20250420123748_studentmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Testapi1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Testapi1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFcAAACAmJmZmRkqwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:42:13.651Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\LINQOperator\\Program.cs",
+              "RelativeDocumentMoniker": "LINQOperator\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\LINQOperator\\Program.cs*",
+              "RelativeToolTip": "LINQOperator\\Program.cs*",
+              "ViewState": "AgIAAC8AAAAAnJmZmZkOwDsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:31:16.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\LINQOperator\\Employee.cs",
+              "RelativeDocumentMoniker": "LINQOperator\\Employee.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\LINQOperator\\Employee.cs",
+              "RelativeToolTip": "LINQOperator\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:19:42.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\LINQ_Practice\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ_Practice\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\LINQ_Practice\\Program.cs",
+              "RelativeToolTip": "LINQ_Practice\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T17:20:18.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250420123748_StudentMigration.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Migrations\\20250420123748_StudentMigration.cs",
+              "RelativeDocumentMoniker": "Testapi1\\Migrations\\20250420123748_StudentMigration.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Migrations\\20250420123748_StudentMigration.cs",
+              "RelativeToolTip": "Testapi1\\Migrations\\20250420123748_StudentMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:37:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Program.cs",
+              "RelativeDocumentMoniker": "Testapi1\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Program.cs",
+              "RelativeToolTip": "Testapi1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:31:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\appsettings.json",
+              "RelativeDocumentMoniker": "Testapi1\\appsettings.json",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\appsettings.json",
+              "RelativeToolTip": "Testapi1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:26:47.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Data\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "Testapi1\\Data\\StudentDBContext.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Data\\StudentDBContext.cs",
+              "RelativeToolTip": "Testapi1\\Data\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:22:25.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Testapi1.csproj",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Testapi1.csproj",
+              "RelativeDocumentMoniker": "Testapi1\\Testapi1.csproj",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Testapi1.csproj",
+              "RelativeToolTip": "Testapi1\\Testapi1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T12:21:56.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Testapi1\\Models\\Student.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\TestApiCreate\\Testapi1\\Models\\Student.cs",
+              "RelativeToolTip": "Testapi1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:14:30.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

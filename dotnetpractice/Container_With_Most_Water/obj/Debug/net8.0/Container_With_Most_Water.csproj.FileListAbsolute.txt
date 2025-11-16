@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\bin\Debug\net8.0\Container_With_Most_Water.exe
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\bin\Debug\net8.0\Container_With_Most_Water.deps.json
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\bin\Debug\net8.0\Container_With_Most_Water.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\bin\Debug\net8.0\Container_With_Most_Water.dll
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\bin\Debug\net8.0\Container_With_Most_Water.pdb
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.dll
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\refint\Container_With_Most_Water.dll
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.pdb
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\Container_With_Most_Water.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\Container_With_Most_Water\obj\Debug\net8.0\ref\Container_With_Most_Water.dll

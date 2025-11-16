@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61CF473-3E84-4C3E-AFD9-2E98A08203BC}|EcommerceAPI\\EcommerceAPI.csproj|d:\\.netcorelearning\\myfirstwebapiproject\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61CF473-3E84-4C3E-AFD9-2E98A08203BC}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61CF473-3E84-4C3E-AFD9-2E98A08203BC}|EcommerceAPI\\EcommerceAPI.csproj|d:\\.netcorelearning\\myfirstwebapiproject\\ecommerceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61CF473-3E84-4C3E-AFD9-2E98A08203BC}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A742868C-4848-48DC-BE4C-E19615C88BA2}|ADODOTNETCORE\\ADODOTNETCORE.csproj|d:\\.netcorelearning\\myfirstwebapiproject\\adodotnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A742868C-4848-48DC-BE4C-E19615C88BA2}|ADODOTNETCORE\\ADODOTNETCORE.csproj|solutionrelative:adodotnetcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\EcommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEwAAACAlpmZmVktwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:42:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\EcommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\EcommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EcommerceAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAIAAADYZmZmZmYkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:41:47.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\ADODOTNETCORE\\Program.cs",
+              "RelativeDocumentMoniker": "ADODOTNETCORE\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MyFirstWebAPIProject\\ADODOTNETCORE\\Program.cs",
+              "RelativeToolTip": "ADODOTNETCORE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T08:38:40.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

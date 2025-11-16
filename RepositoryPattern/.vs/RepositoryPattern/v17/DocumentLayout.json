@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\RepositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF462192-4D5F-4CAA-B317-08FBC8B7495B}|mango.services.CouponApi\\mango.services.CouponApi.csproj|d:\\.netcorelearning\\repositorypattern\\mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF462192-4D5F-4CAA-B317-08FBC8B7495B}|mango.services.CouponApi\\mango.services.CouponApi.csproj|solutionrelative:mango.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F88962-BB66-4FFA-B01A-0EDEB7185059}|Mango.services.Product.Api\\Mango.services.ProductApi.csproj|d:\\.netcorelearning\\repositorypattern\\mango.services.product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F88962-BB66-4FFA-B01A-0EDEB7185059}|Mango.services.Product.Api\\Mango.services.ProductApi.csproj|solutionrelative:mango.services.product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|d:\\.netcorelearning\\repositorypattern\\mango.web\\views\\productcontoller\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|solutionrelative:mango.web\\views\\productcontoller\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|d:\\.netcorelearning\\repositorypattern\\mango.web\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|solutionrelative:mango.web\\controllers\\productcontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DEF91E-DE14-4D82-9A52-966E13847CBD}|Microservices.AuthApi\\Microservices.AuthApi.csproj|d:\\.netcorelearning\\repositorypattern\\microservices.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DEF91E-DE14-4D82-9A52-966E13847CBD}|Microservices.AuthApi\\Microservices.AuthApi.csproj|solutionrelative:microservices.authapi\\controllers\\authapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NetCoreLearning\\ApplicationPublished\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|d:\\.netcorelearning\\repositorypattern\\mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|solutionrelative:mango.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|d:\\.netcorelearning\\repositorypattern\\mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DB23661-0BDF-4DA9-8ED5-E398F694E34A}|mango.Web\\mango.Web.csproj|solutionrelative:mango.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.services.CouponApi\\appsettings.json",
+              "RelativeDocumentMoniker": "mango.services.CouponApi\\appsettings.json",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.services.CouponApi\\appsettings.json",
+              "RelativeToolTip": "mango.services.CouponApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-28T17:35:48.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Views\\ProductContoller\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "mango.Web\\Views\\ProductContoller\\ProductEdit.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Views\\ProductContoller\\ProductEdit.cshtml",
+              "RelativeToolTip": "mango.Web\\Views\\ProductContoller\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T19:06:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthApiController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\Microservices.AuthApi\\Controllers\\AuthApiController.cs",
+              "RelativeDocumentMoniker": "Microservices.AuthApi\\Controllers\\AuthApiController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\Microservices.AuthApi\\Controllers\\AuthApiController.cs",
+              "RelativeToolTip": "Microservices.AuthApi\\Controllers\\AuthApiController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:30:03.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\ApplicationPublished\\web.config",
+              "RelativeDocumentMoniker": "..\\ApplicationPublished\\web.config",
+              "ToolTip": "D:\\.NetCoreLearning\\ApplicationPublished\\web.config",
+              "RelativeToolTip": "..\\ApplicationPublished\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-27T17:15:39.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "mango.Web\\Services\\BaseService.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "mango.Web\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:52:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductContoller.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Controllers\\ProductContoller.cs",
+              "RelativeDocumentMoniker": "mango.Web\\Controllers\\ProductContoller.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Controllers\\ProductContoller.cs",
+              "RelativeToolTip": "mango.Web\\Controllers\\ProductContoller.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:30:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\Mango.services.Product.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Mango.services.Product.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\Mango.services.Product.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Mango.services.Product.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:30:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mango.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\RepositoryPattern\\mango.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mango.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T06:23:07.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.AssemblyInfo.cs
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.sourcelink.json
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\bin\Debug\net8.0\LINQOperator.exe
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\bin\Debug\net8.0\LINQOperator.deps.json
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\bin\Debug\net8.0\LINQOperator.runtimeconfig.json
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\bin\Debug\net8.0\LINQOperator.dll
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\bin\Debug\net8.0\LINQOperator.pdb
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.dll
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\refint\LINQOperator.dll
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.pdb
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\LINQOperator.genruntimeconfig.cache
+D:\.NetCoreLearning\TestApiCreate\LINQOperator\obj\Debug\net8.0\ref\LINQOperator.dll

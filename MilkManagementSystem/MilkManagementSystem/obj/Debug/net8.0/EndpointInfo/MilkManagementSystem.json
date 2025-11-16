@@ -1,0 +1,781 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MilkManagementSystem",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Collection": {
+      "get": {
+        "tags": [
+          "Collection"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Collection/id": {
+      "get": {
+        "tags": [
+          "Collection"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Collection/Collection/{id}": {
+      "post": {
+        "tags": [
+          "Collection"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CollectionDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CollectionDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CollectionDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Customer": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Customer"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Customer"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Customer"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Customer/Customer/{id}": {
+      "get": {
+        "tags": [
+          "Customer"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Customer/AddCustomer": {
+      "post": {
+        "tags": [
+          "Customer"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CustomerDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FoodDeatails": {
+      "get": {
+        "tags": [
+          "FoodDeatails"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/FoodDeatails/Sell/Food/{id}": {
+      "post": {
+        "tags": [
+          "FoodDeatails"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FoodDeatilsDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/FoodDeatilsDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/FoodDeatilsDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Rates": {
+      "get": {
+        "tags": [
+          "Rates"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Rates"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Milkerate"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Milkerate"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Milkerate"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CollectionDTO": {
+        "required": [
+          "customerid",
+          "fat",
+          "liter",
+          "snf"
+        ],
+        "type": "object",
+        "properties": {
+          "customerid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "milktypeid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "liter": {
+            "type": "number",
+            "format": "double"
+          },
+          "fat": {
+            "type": "number",
+            "format": "double"
+          },
+          "snf": {
+            "type": "number",
+            "format": "double"
+          },
+          "rate": {
+            "type": "number",
+            "format": "float"
+          },
+          "total": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "shift": {
+            "$ref": "#/components/schemas/Shift"
+          },
+          "milkName": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Customer": {
+        "type": "object",
+        "properties": {
+          "customerid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "mobileno": {
+            "type": "string",
+            "nullable": true
+          },
+          "roleid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "milktypeid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "datechanged": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "deleteflag": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "foodDetails": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/FoodDetail"
+            },
+            "nullable": true
+          },
+          "milkcollections": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Milkcollection"
+            },
+            "nullable": true
+          },
+          "milktype": {
+            "$ref": "#/components/schemas/Milktype"
+          },
+          "role": {
+            "$ref": "#/components/schemas/Role"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CustomerDTO": {
+        "required": [
+          "firstName",
+          "lastName"
+        ],
+        "type": "object",
+        "properties": {
+          "customerid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "firstName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "lastName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "mobileNo": {
+            "maxLength": 10,
+            "minLength": 1,
+            "pattern": "^[0-9]*$",
+            "type": "string",
+            "nullable": true
+          },
+          "roleId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "milkTypeid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "datechanged": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "isDeleted": {
+            "type": "boolean"
+          },
+          "typsOfMilk": {
+            "$ref": "#/components/schemas/TypsOfMilk"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Food": {
+        "type": "object",
+        "properties": {
+          "foodid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foodName": {
+            "type": "string",
+            "nullable": true
+          },
+          "sellingRate": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "byingRate": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "stock": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "dateChanged": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "deleteflag": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "foodDetails": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/FoodDetail"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "FoodDTO": {
+        "required": [
+          "dateadded",
+          "foodid",
+          "foodName",
+          "sellingRate",
+          "stock"
+        ],
+        "type": "object",
+        "properties": {
+          "foodid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foodName": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "sellingRate": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "stock": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "deleteflag": {
+            "type": "boolean",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "FoodDeatilsDTO": {
+        "required": [
+          "customerid",
+          "foodItems",
+          "quantity"
+        ],
+        "type": "object",
+        "properties": {
+          "customerid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foodItems": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/FoodDTO"
+            }
+          }
+        },
+        "additionalProperties": false
+      },
+      "FoodDetail": {
+        "type": "object",
+        "properties": {
+          "srno": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "foodId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "foodname": {
+            "type": "string",
+            "nullable": true
+          },
+          "quantity": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "rate": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "amount": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "customerid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "datechanged": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "deleteflag": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "customer": {
+            "$ref": "#/components/schemas/Customer"
+          },
+          "food": {
+            "$ref": "#/components/schemas/Food"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Milkcollection": {
+        "type": "object",
+        "properties": {
+          "customerid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "milktypeid": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "liter": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "fat": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "snf": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "total": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "guid": {
+            "type": "string",
+            "nullable": true
+          },
+          "rate": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "collectionshift": {
+            "type": "string",
+            "nullable": true
+          },
+          "customer": {
+            "$ref": "#/components/schemas/Customer"
+          },
+          "milktype": {
+            "$ref": "#/components/schemas/Milktype"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Milkerate": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "fatrate": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "snfrate": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Milktype": {
+        "type": "object",
+        "properties": {
+          "milktypeid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "milkname": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "customers": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Customer"
+            },
+            "nullable": true
+          },
+          "milkcollections": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Milkcollection"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Role": {
+        "type": "object",
+        "properties": {
+          "roleid": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "rolename": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateadded": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "datechanged": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "deleteflag": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "customers": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Customer"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Shift": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      },
+      "TypsOfMilk": {
+        "enum": [
+          1,
+          2
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}

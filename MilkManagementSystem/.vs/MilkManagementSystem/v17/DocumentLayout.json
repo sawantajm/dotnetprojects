@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\MilkManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\controllers\\foodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\dtos\\collectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\dtos\\collectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\models\\fooddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\models\\fooddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\dtos\\fooddeatilsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\dtos\\fooddeatilsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\models\\milkmgtsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\models\\milkmgtsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|d:\\.netcorelearning\\milkmanagementsystem\\milkmanagementsystem\\dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87DD922-085E-4C31-BF4F-A036CE944925}|MilkManagementSystem\\MilkManagementSystem.csproj|solutionrelative:milkmanagementsystem\\dtos\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodDTO.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\FoodDTO.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\DTOS\\FoodDTO.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\FoodDTO.cs",
+              "RelativeToolTip": "MilkManagementSystem\\DTOS\\FoodDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:11:58.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodDetail.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\FoodDetail.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Models\\FoodDetail.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\FoodDetail.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Models\\FoodDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:04:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodsController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\FoodsController.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Controllers\\FoodsController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\FoodsController.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Controllers\\FoodsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:51:50.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Models\\Food.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\Food.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Models\\Food.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:42:06.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodDeatilsDTO.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\FoodDeatilsDTO.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\DTOS\\FoodDeatilsDTO.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\FoodDeatilsDTO.cs",
+              "RelativeToolTip": "MilkManagementSystem\\DTOS\\FoodDeatilsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:40:03.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MilkMgtSystemContext.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\MilkMgtSystemContext.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Models\\MilkMgtSystemContext.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Models\\MilkMgtSystemContext.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Models\\MilkMgtSystemContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:31:38.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionDTO.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\CollectionDTO.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\DTOS\\CollectionDTO.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\DTOS\\CollectionDTO.cs",
+              "RelativeToolTip": "MilkManagementSystem\\DTOS\\CollectionDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:46:10.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Controllers\\RatesController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Controllers\\RatesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:16:53.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "MilkManagementSystem\\Controllers\\CollectionController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\MilkManagementSystem\\MilkManagementSystem\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "MilkManagementSystem\\Controllers\\CollectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:00:27.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

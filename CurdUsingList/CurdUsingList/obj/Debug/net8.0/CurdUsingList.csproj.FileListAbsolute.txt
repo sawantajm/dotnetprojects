@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.AssemblyInfo.cs
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.sourcelink.json
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\bin\Debug\net8.0\CurdUsingList.exe
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\bin\Debug\net8.0\CurdUsingList.deps.json
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\bin\Debug\net8.0\CurdUsingList.runtimeconfig.json
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\bin\Debug\net8.0\CurdUsingList.dll
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\bin\Debug\net8.0\CurdUsingList.pdb
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.dll
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\refint\CurdUsingList.dll
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.pdb
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\CurdUsingList.genruntimeconfig.cache
+D:\.NetCoreLearning\CurdUsingList\CurdUsingList\obj\Debug\net8.0\ref\CurdUsingList.dll

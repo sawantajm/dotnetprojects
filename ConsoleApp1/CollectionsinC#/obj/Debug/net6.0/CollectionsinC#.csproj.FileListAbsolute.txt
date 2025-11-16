@@ -1,0 +1,14 @@
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\bin\Debug\net6.0\CollectionsinC#.exe
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\bin\Debug\net6.0\CollectionsinC#.deps.json
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\bin\Debug\net6.0\CollectionsinC#.runtimeconfig.json
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\bin\Debug\net6.0\CollectionsinC#.dll
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\bin\Debug\net6.0\CollectionsinC#.pdb
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.AssemblyInfo.cs
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.dll
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\refint\CollectionsinC#.dll
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.pdb
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\CollectionsinC#.genruntimeconfig.cache
+D:\.NetCoreLearning\ConsoleApp1\CollectionsinC#\obj\Debug\net6.0\ref\CollectionsinC#.dll

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\CRUDUsingConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|d:\\.netcorelearning\\crudusingconsole\\crudusingconsole\\crudusingconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|solutionrelative:crudusingconsole\\crudusingconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|d:\\.netcorelearning\\crudusingconsole\\crudusingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|solutionrelative:crudusingconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|d:\\.netcorelearning\\crudusingconsole\\crudusingconsole\\entity\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|solutionrelative:crudusingconsole\\entity\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|d:\\.netcorelearning\\crudusingconsole\\crudusingconsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274F4980-DFA5-4699-9D37-C6CA33B338E5}|CRUDUsingConsole\\CRUDUsingConsole.csproj|solutionrelative:crudusingconsole\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRUDUsingConsole",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\CRUDUsingConsole.csproj",
+              "RelativeDocumentMoniker": "CRUDUsingConsole\\CRUDUsingConsole.csproj",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\CRUDUsingConsole.csproj",
+              "RelativeToolTip": "CRUDUsingConsole\\CRUDUsingConsole.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T08:35:23.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDUsingConsole\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDUsingConsole\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:16:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Entity\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "CRUDUsingConsole\\Entity\\DatabaseContext.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Entity\\DatabaseContext.cs",
+              "RelativeToolTip": "CRUDUsingConsole\\Entity\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:45:02.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDUsingConsole\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDUsingConsole\\CRUDUsingConsole\\Program.cs",
+              "RelativeToolTip": "CRUDUsingConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T08:24:19.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\bin\Debug\net8.0\Remove_Duplicate_from_Sorted_List.exe
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\bin\Debug\net8.0\Remove_Duplicate_from_Sorted_List.deps.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\bin\Debug\net8.0\Remove_Duplicate_from_Sorted_List.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\bin\Debug\net8.0\Remove_Duplicate_from_Sorted_List.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\bin\Debug\net8.0\Remove_Duplicate_from_Sorted_List.pdb
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\refint\Remove_Duplicate_from_Sorted_List.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.pdb
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\Remove_Duplicate_from_Sorted_List.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Duplicate_from_Sorted_List\obj\Debug\net8.0\ref\Remove_Duplicate_from_Sorted_List.dll

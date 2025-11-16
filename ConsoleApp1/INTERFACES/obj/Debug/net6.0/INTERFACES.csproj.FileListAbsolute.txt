@@ -1,0 +1,14 @@
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\bin\Debug\net6.0\INTERFACES.exe
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\bin\Debug\net6.0\INTERFACES.deps.json
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\bin\Debug\net6.0\INTERFACES.runtimeconfig.json
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\bin\Debug\net6.0\INTERFACES.dll
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\bin\Debug\net6.0\INTERFACES.pdb
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.AssemblyInfo.cs
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.dll
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\refint\INTERFACES.dll
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.pdb
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\INTERFACES.genruntimeconfig.cache
+D:\.NetCoreLearning\ConsoleApp1\INTERFACES\obj\Debug\net6.0\ref\INTERFACES.dll

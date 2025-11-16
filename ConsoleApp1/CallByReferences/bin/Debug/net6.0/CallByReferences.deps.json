@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CallByReferences/1.0.0": {
+        "runtime": {
+          "CallByReferences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CallByReferences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

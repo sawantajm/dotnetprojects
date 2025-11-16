@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetpractice", "dotnetpractice\dotnetpractice.csproj", "{A9929776-FABA-40BB-B1F3-62AFE9D4100B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container_With_Most_Water", "Container_With_Most_Water\Container_With_Most_Water.csproj", "{97162C3E-4411-47E2-A90D-C7AEFB5D4A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest_Common_Prefix", "Longest_Common_Prefix\Longest_Common_Prefix.csproj", "{4751AE97-731B-42F3-BA65-539143703001}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome_Number", "Palindrome_Number\Palindrome_Number.csproj", "{72E50E4B-5AE0-4D26-817B-212D2023A559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "merge_two_SortedList", "merge_two_SortedList\merge_two_SortedList.csproj", "{5090E80E-C261-488F-8F38-BE4C095F1EB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Duplicate_from_Sorted_List", "Remove_Duplicate_from_Sorted_List\Remove_Duplicate_from_Sorted_List.csproj", "{D9EBD951-A5D2-4FF6-970C-2F91DEEF29B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Element", "Remove_Element\Remove_Element.csproj", "{652BB426-68CE-401C-8902-FB9F8B49558B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9929776-FABA-40BB-B1F3-62AFE9D4100B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9929776-FABA-40BB-B1F3-62AFE9D4100B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9929776-FABA-40BB-B1F3-62AFE9D4100B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9929776-FABA-40BB-B1F3-62AFE9D4100B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97162C3E-4411-47E2-A90D-C7AEFB5D4A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97162C3E-4411-47E2-A90D-C7AEFB5D4A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97162C3E-4411-47E2-A90D-C7AEFB5D4A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97162C3E-4411-47E2-A90D-C7AEFB5D4A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4751AE97-731B-42F3-BA65-539143703001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4751AE97-731B-42F3-BA65-539143703001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4751AE97-731B-42F3-BA65-539143703001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4751AE97-731B-42F3-BA65-539143703001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E50E4B-5AE0-4D26-817B-212D2023A559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E50E4B-5AE0-4D26-817B-212D2023A559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E50E4B-5AE0-4D26-817B-212D2023A559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E50E4B-5AE0-4D26-817B-212D2023A559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5090E80E-C261-488F-8F38-BE4C095F1EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5090E80E-C261-488F-8F38-BE4C095F1EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5090E80E-C261-488F-8F38-BE4C095F1EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5090E80E-C261-488F-8F38-BE4C095F1EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EBD951-A5D2-4FF6-970C-2F91DEEF29B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EBD951-A5D2-4FF6-970C-2F91DEEF29B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EBD951-A5D2-4FF6-970C-2F91DEEF29B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EBD951-A5D2-4FF6-970C-2F91DEEF29B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652BB426-68CE-401C-8902-FB9F8B49558B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652BB426-68CE-401C-8902-FB9F8B49558B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652BB426-68CE-401C-8902-FB9F8B49558B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652BB426-68CE-401C-8902-FB9F8B49558B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

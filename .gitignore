@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyFirstWebAPIProject/MyFirstWebAPIProject/MyFirstWebAPIProject.csproj
+/C# Practice/String/.vs/String/FileContentIndex/c9cf8bad-5582-4b08-afac-e2795a2e9969.vsidx
+/ApplicationPublished/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css
+/C# Practice/String/.vs/String/v17/DocumentLayout.json
+/C# Practice/String/.vs/String/v17/DocumentLayout.json
+/C# Practice/String/.vs/String/v17/DocumentLayout.json
+*.cache
+*.cs
+*.dll

@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|d:\\.netcorelearning\\crudappusingwebapi\\crudappusingwebapi\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA5C97-DE3D-45FC-83D8-5CDAACB75800}|CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi.csproj|solutionrelative:crudappusingwebapi\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T05:13:23.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T05:12:34.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:50:15.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:47:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:32:19.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T11:59:13.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Program.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Program.cs",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:53:25.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T11:49:21.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:37:06.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CRUDAPPUsingWebApi\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NetCoreLearning\\CRUDAPPUsingWebApi\\CRUDAPPUsingWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "CRUDAPPUsingWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:33:44.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\bin\Debug\net8.0\Interface_Invoke.exe
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\bin\Debug\net8.0\Interface_Invoke.deps.json
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\bin\Debug\net8.0\Interface_Invoke.runtimeconfig.json
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\bin\Debug\net8.0\Interface_Invoke.dll
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\bin\Debug\net8.0\Interface_Invoke.pdb
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.AssemblyInfo.cs
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.sourcelink.json
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.dll
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\refint\Interface_Invoke.dll
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.pdb
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\Interface_Invoke.genruntimeconfig.cache
+D:\.NetCoreLearning\C# Practice\String\Interface_Invoke\obj\Debug\net8.0\ref\Interface_Invoke.dll

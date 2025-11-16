@@ -1,0 +1,6 @@
+@MilkManagementSystem_HostAddress = http://localhost:5293
+
+GET {{MilkManagementSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

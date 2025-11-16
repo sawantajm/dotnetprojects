@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.exe
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.deps.json
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.runtimeconfig.json
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.dll
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\bin\Debug\net8.0\LINQ_Practice.pdb
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.AssemblyInfo.cs
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.sourcelink.json
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.dll
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\refint\LINQ_Practice.dll
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.pdb
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\LINQ_Practice.genruntimeconfig.cache
+D:\.NetCoreLearning\TestApiCreate\LINQ_Practice\obj\Debug\net8.0\ref\LINQ_Practice.dll

@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\LINQPractis\LINQPractis\bin\Debug\net8.0\LINQPractis.exe
+D:\.NetCoreLearning\LINQPractis\LINQPractis\bin\Debug\net8.0\LINQPractis.deps.json
+D:\.NetCoreLearning\LINQPractis\LINQPractis\bin\Debug\net8.0\LINQPractis.runtimeconfig.json
+D:\.NetCoreLearning\LINQPractis\LINQPractis\bin\Debug\net8.0\LINQPractis.dll
+D:\.NetCoreLearning\LINQPractis\LINQPractis\bin\Debug\net8.0\LINQPractis.pdb
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.AssemblyInfo.cs
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.sourcelink.json
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.dll
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\refint\LINQPractis.dll
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.pdb
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\LINQPractis.genruntimeconfig.cache
+D:\.NetCoreLearning\LINQPractis\LINQPractis\obj\Debug\net8.0\ref\LINQPractis.dll

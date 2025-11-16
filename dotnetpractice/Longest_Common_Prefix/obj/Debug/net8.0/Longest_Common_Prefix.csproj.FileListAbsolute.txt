@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\bin\Debug\net8.0\Longest_Common_Prefix.exe
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\bin\Debug\net8.0\Longest_Common_Prefix.deps.json
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\bin\Debug\net8.0\Longest_Common_Prefix.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\bin\Debug\net8.0\Longest_Common_Prefix.dll
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\bin\Debug\net8.0\Longest_Common_Prefix.pdb
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.dll
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\refint\Longest_Common_Prefix.dll
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.pdb
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\Longest_Common_Prefix.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\Longest_Common_Prefix\obj\Debug\net8.0\ref\Longest_Common_Prefix.dll

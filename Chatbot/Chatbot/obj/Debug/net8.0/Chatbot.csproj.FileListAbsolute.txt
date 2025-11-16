@@ -1,0 +1,6 @@
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.csproj.AssemblyReference.cache
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.AssemblyInfo.cs
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\Chatbot\Chatbot\obj\Debug\net8.0\Chatbot.sourcelink.json

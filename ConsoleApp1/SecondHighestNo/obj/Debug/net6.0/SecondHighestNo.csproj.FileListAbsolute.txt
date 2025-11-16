@@ -1,0 +1,14 @@
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\bin\Debug\net6.0\SecondHighestNo.exe
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\bin\Debug\net6.0\SecondHighestNo.deps.json
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\bin\Debug\net6.0\SecondHighestNo.runtimeconfig.json
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\bin\Debug\net6.0\SecondHighestNo.dll
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\bin\Debug\net6.0\SecondHighestNo.pdb
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.AssemblyInfo.cs
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.dll
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\refint\SecondHighestNo.dll
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.pdb
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\SecondHighestNo.genruntimeconfig.cache
+D:\.NetCoreLearning\ConsoleApp1\SecondHighestNo\obj\Debug\net6.0\ref\SecondHighestNo.dll

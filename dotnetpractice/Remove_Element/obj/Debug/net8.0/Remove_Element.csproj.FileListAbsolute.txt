@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\bin\Debug\net8.0\Remove_Element.exe
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\bin\Debug\net8.0\Remove_Element.deps.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\bin\Debug\net8.0\Remove_Element.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\bin\Debug\net8.0\Remove_Element.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\bin\Debug\net8.0\Remove_Element.pdb
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\refint\Remove_Element.dll
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.pdb
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\Remove_Element.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\Remove_Element\obj\Debug\net8.0\ref\Remove_Element.dll

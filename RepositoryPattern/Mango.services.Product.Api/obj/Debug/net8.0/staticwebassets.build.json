@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "P0/oirmo/CJTcMY5eqJ+sohCBzKEwtFGk7DJwMQmBvY=",
+  "Source": "Mango.services.ProductApi",
+  "BasePath": "_content/Mango.services.ProductApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

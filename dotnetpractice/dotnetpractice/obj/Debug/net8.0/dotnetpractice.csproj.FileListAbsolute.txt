@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\bin\Debug\net8.0\dotnetpractice.exe
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\bin\Debug\net8.0\dotnetpractice.deps.json
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\bin\Debug\net8.0\dotnetpractice.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\bin\Debug\net8.0\dotnetpractice.dll
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\bin\Debug\net8.0\dotnetpractice.pdb
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.dll
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\refint\dotnetpractice.dll
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.pdb
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\dotnetpractice.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\dotnetpractice\obj\Debug\net8.0\ref\dotnetpractice.dll

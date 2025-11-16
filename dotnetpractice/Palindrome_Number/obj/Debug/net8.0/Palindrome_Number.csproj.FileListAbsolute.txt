@@ -1,0 +1,15 @@
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.AssemblyInfo.cs
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.sourcelink.json
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.exe
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.deps.json
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.runtimeconfig.json
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.dll
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\bin\Debug\net8.0\Palindrome_Number.pdb
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.dll
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\refint\Palindrome_Number.dll
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.pdb
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\Palindrome_Number.genruntimeconfig.cache
+D:\.NetCoreLearning\dotnetpractice\Palindrome_Number\obj\Debug\net8.0\ref\Palindrome_Number.dll

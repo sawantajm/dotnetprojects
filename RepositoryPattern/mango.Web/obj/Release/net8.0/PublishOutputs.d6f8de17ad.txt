@@ -1,0 +1,13 @@
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\mango.Web.exe
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\mango.Web.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\mango.Web.deps.json
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\mango.Web.runtimeconfig.json
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\mango.Web.pdb
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\.NetCoreLearning\RepositoryPattern\mango.Web\obj\Release\net8.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll

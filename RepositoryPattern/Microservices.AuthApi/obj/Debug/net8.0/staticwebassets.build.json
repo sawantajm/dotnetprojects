@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "sa+L8saz1mlp1y9050MBou18g/zYiSOe3v/9YsSe+IA=",
+  "Source": "Microservices.AuthApi",
+  "BasePath": "_content/Microservices.AuthApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\.NetCoreLearning\\RepositoryPattern\\RepositoryPattern\\RepositoryPattern.csproj",
+      "Version": 2,
+      "Source": "RepositoryPattern",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

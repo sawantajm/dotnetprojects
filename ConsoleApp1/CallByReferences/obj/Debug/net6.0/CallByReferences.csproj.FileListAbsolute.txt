@@ -1,0 +1,14 @@
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\bin\Debug\net6.0\CallByReferences.exe
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\bin\Debug\net6.0\CallByReferences.deps.json
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\bin\Debug\net6.0\CallByReferences.runtimeconfig.json
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\bin\Debug\net6.0\CallByReferences.dll
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\bin\Debug\net6.0\CallByReferences.pdb
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.AssemblyInfo.cs
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.dll
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\refint\CallByReferences.dll
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.pdb
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\CallByReferences.genruntimeconfig.cache
+D:\.NetCoreLearning\ConsoleApp1\CallByReferences\obj\Debug\net6.0\ref\CallByReferences.dll

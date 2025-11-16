@@ -1,0 +1,14 @@
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\bin\Debug\net6.0\GenericCollection.exe
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\bin\Debug\net6.0\GenericCollection.deps.json
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\bin\Debug\net6.0\GenericCollection.runtimeconfig.json
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\bin\Debug\net6.0\GenericCollection.dll
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\bin\Debug\net6.0\GenericCollection.pdb
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfoInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.AssemblyInfo.cs
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.csproj.CoreCompileInputs.cache
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.dll
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\refint\GenericCollection.dll
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.pdb
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\GenericCollection.genruntimeconfig.cache
+D:\.NetCoreLearning\ConsoleApp1\GenericCollection\obj\Debug\net6.0\ref\GenericCollection.dll
