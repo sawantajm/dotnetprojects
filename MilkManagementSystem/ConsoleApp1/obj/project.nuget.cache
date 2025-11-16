@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/X+KJfH6SM=",
+  "success": true,
+  "projectFilePath": "D:\\.NetCoreLearning\\MilkManagementSystem\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AJ\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}
